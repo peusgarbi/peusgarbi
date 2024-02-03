@@ -1,6 +1,10 @@
 ## Olá! Eu sou o Peusgarb. 👋
 
-### 🔨 Languages
+> A coragem é a primeira das qualidades humanas porque garante todas as outras.
+
+## 🔨 Skills
+
+### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=go,js,ts,py,bash,html,css,md)](https://skillicons.dev)
 
