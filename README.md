@@ -1,4 +1,24 @@
-### Hi there 👋
+## Olá! Eu sou o Peusgarb. 👋
+
+### 🔨 Languages
+
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,py,bash,html,css,md)](https://skillicons.dev)
+
+### Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=svelte,solidjs,vite,react,nextjs,tailwind)](https://skillicons.dev)
+
+### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb)](https://skillicons.dev)
+
+### Infra
+
+[![My Skills](https://skillicons.dev/icons?i=docker,bun,nodejs,git,github,prometheus,grafana,aws,cloudflare)](https://skillicons.dev)
+
+### Ambient
+
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode)](https://skillicons.dev)
 
 <!--
 **peusgarbi/peusgarbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
